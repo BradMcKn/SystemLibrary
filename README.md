@@ -82,3 +82,6 @@ Remove a user - Delete a user from the system.
 
 Quit - Exit the program.
 
+Testing
+
+If you would like to test the catalog that already has a series of books please, use search author then Brandon Sanderson this will give you a list of one of his series.
